@@ -45,29 +45,6 @@ Recommended reading materials:
 
 ---
 
-## 🧪 Assignments
-
-Assignments are designed to reinforce key quantum and classical machine learning concepts through implementation and experimentation.
-
-| # | Title | Points |
-|---|--------|--------|
-| 1 | Stack Overflow Salary Survey | 10 |
-| 2 | Medical Cost Personal Dataset (Regression) & Cancer Dataset (SVM) | 20 |
-| 3 | Code What Was Taught in School | 10 |
-| 4 | Apply MLP and RNN on Stack Overflow Salary Survey & Compare with Regression | 20 |
-| 5 | COVID CXR Image Dataset | 20 |
-| 6 | Grapevine Leaves Image Dataset | 20 |
-
-📦 **Datasets:**
-- [Stack Overflow Annual Developer Survey 2024](https://www.kaggle.com/datasets/berkayalan/stack-overflow-annual-developer-survey-2024?resource=download)
-- [Medical Cost Personal Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance)
-- [Cancer Data](https://www.kaggle.com/datasets/erdemtaha/cancer-data/data)
-- [Great School Dataset](https://www.kaggle.com/datasets/bernardnm/great-school)
-- [COVID CXR Image Dataset](https://www.kaggle.com/datasets/sid321axn/covid-cxr-image-dataset-research)
-- [Grapevine Leaves Image Dataset](https://www.kaggle.com/datasets/muratkokludataset/grapevine-leaves-image-dataset)
-
----
-
 ## 💻 Related Links
 
 - 🎓 **GitHub Classroom:** [Quantum Machine Learning Course 2025](https://classroom.github.com/classrooms/231667307-quantum-machine-learning-course-2025)  
