@@ -1,9 +1,3 @@
-# QML-Course---Amirkabir-University-of-Technology
-This course belongs to the Physics Department of Amirkabir University and Dr. Negar Ashari Astani. You should follow the instructions carefully and try to solve the assignments.
-
-Contact: https://www.linkedin.com/in/nima-yadollahi-669893279/
-
-
 # Quantum Machine Learning – Fall 2025  
 **Amirkabir University of Technology**
 
@@ -78,14 +72,14 @@ Assignments are designed to reinforce key quantum and classical machine learning
 
 - 🎓 **GitHub Classroom:** [Quantum Machine Learning Course 2025](https://classroom.github.com/classrooms/231667307-quantum-machine-learning-course-2025)  
 - 📘 **GitHub Repository:** [QML - Course Repository](https://github.com/Quantum-machine-learning-course-2025/QML-Course---Amirkabir-University-of-Technology)  
-- ▶️ **YouTube Playlist:** [Quantum Machine Learning Lectures](https://www.youtube.com/playlist?list=PLZPZq0r_RZOOkUQbat8LyQii36cJf2SWT)
+- ▶️ **YouTube Playlist:** [Quantum Machine Learning Lectures](https://youtube.com/playlist?list=PL529eKJTemlBZqi900uIeohSd7qqUEG9U&si=Xq-taFyx1A-p0yDL)
 
 ---
 
 ## 📞 Contact
 
 For any questions or support, please contact:  
-📧 **qml.ta2025@gmail.com**
+📧 **https://qucal.aut.ac.ir/**
 
 ---
 
