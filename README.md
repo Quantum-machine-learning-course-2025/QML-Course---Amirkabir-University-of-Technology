@@ -1,7 +1,7 @@
 # Quantum Machine Learning – Fall 2025  
 **Amirkabir University of Technology**
 
-![Matrix Code Rain](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+![Michael Scott]([https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hvNzk5OW1peGo4ZG1jZHN2MmFjOTg4MmQwMzE2d21lMGY0cjdnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ssYTQOB9SkwvgsLhEk/giphy.gif))
 
 ---
 
@@ -22,7 +22,7 @@ Throughout the semester, we’ll explore how quantum systems can redefine how ma
 
 ---
 
-![Red Pill or Blue Pill](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![Red Pill or Blue Pill]([https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTl4MmgwM2RjMWh3c3dncHhtZnZrZGR4cWtxZ2R2dHhkcWVid3RkZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V2ojLo7PvhVug/giphy.gif))
 
 ## Requirements  
 Before you enter the quantum realm, make sure you’re comfortable with:  
