@@ -1,5 +1,4 @@
 # Quantum Machine Learning – Fall 2025  
-**Amirkabir University of Technology**
 
 ![Michael Scott](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hvNzk5OW1peGo4ZG1jZHN2MmFjOTg4MmQwMzE2d21lMGY0cjdnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ssYTQOB9SkwvgsLhEk/giphy.gif)
 
@@ -64,7 +63,7 @@ Find all your resources here:
 
 ---
 
-![Matrix Code Loop](https://media.giphy.com/media/duzpaTbCUy9Vu/giphy.gif)
+![Matrix Code Loop](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWlkZTlxZGliMjN3aWV5eXpyYWYwOWZmMDMwbmkxdWQ2MWxrOWRoOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13GIgrGdslD9oQ/giphy.gif)
 
 ## Contact  
 For any questions or support, please visit:  
