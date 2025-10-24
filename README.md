@@ -16,13 +16,13 @@ Throughout the semester, we’ll explore how quantum systems can redefine how ma
 - **Contact:** [qml.ta2025@gmail.com](mailto:qml.ta2025@gmail.com)  
 - **Level:** Graduate  
 - **Session Duration:** 90 minutes  
-- **Main References:**  
-  - *Machine Learning with Quantum Computers* — Maria Schuld & Francesco Petruccione  
-  - [Reference Book (PDF)](http://103.203.175.90:81/fdScript/RootOfEBooks/E%20Book%20collection%20-%202025%20-%20F/AI%20and%20DS/Francesco_Petruccione,_Maria_Schuld_Machine_Learning_with_Quantum.pdf)
+- **Main References:**    
+  - [*Machine Learning with Quantum Computers* — Maria Schuld & Francesco Petruccione](http://103.203.175.90:81/fdScript/RootOfEBooks/E%20Book%20collection%20-%202025%20-%20F/AI%20and%20DS/Francesco_Petruccione,_Maria_Schuld_Machine_Learning_with_Quantum.pdf)
+  - [*Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow* — Aurélien Géron](http://14.139.161.31/OddSem-0822-1122/Hands-On_Machine_Learning_with_Scikit-Learn-Keras-and-TensorFlow-2nd-Edition-Aurelien-Geron.pdf)
 
 ---
 
-![Red Pill or Blue Pill]([https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTl4MmgwM2RjMWh3c3dncHhtZnZrZGR4cWtxZ2R2dHhkcWVid3RkZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V2ojLo7PvhVug/giphy.gif))
+![Red Pill or Blue Pill](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTl4MmgwM2RjMWh3c3dncHhtZnZrZGR4cWtxZ2R2dHhkcWVid3RkZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V2ojLo7PvhVug/giphy.gif)
 
 ## Requirements  
 Before you enter the quantum realm, make sure you’re comfortable with:  
