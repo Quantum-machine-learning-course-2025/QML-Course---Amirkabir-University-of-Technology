@@ -1,7 +1,7 @@
 # Quantum Machine Learning – Fall 2025  
 **Amirkabir University of Technology**
 
-![Michael Scott]([https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hvNzk5OW1peGo4ZG1jZHN2MmFjOTg4MmQwMzE2d21lMGY0cjdnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ssYTQOB9SkwvgsLhEk/giphy.gif))
+![Michael Scott](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hvNzk5OW1peGo4ZG1jZHN2MmFjOTg4MmQwMzE2d21lMGY0cjdnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ssYTQOB9SkwvgsLhEk/giphy.gif)
 
 ---
 
