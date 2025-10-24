@@ -34,8 +34,6 @@ Recommended background reading:
 
 ---
 
-![Matrix Transition](https://media.giphy.com/media/3o7TKsQ2lj6l8S4kEU/giphy.gif)
-
 ## TA Classes Schedule  
 
 | # | Topic | Mode | Duration | TA |
@@ -62,14 +60,13 @@ Find all your resources here:
 - **YouTube Playlist:** [Quantum Machine Learning Lectures](https://youtube.com/playlist?list=PL529eKJTemlBZqi900uIeohSd7qqUEG9U&si=Xq-taFyx1A-p0yDL)
 
 ---
-
-![Matrix Code Loop](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWlkZTlxZGliMjN3aWV5eXpyYWYwOWZmMDMwbmkxdWQ2MWxrOWRoOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13GIgrGdslD9oQ/giphy.gif)
-
 ## Contact  
 For any questions or support, please visit:  
 🔗 [https://qucal.aut.ac.ir/](https://qucal.aut.ac.ir/)
-
 ---
+
+
+![Matrix Code Loop](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWlkZTlxZGliMjN3aWV5eXpyYWYwOWZmMDMwbmkxdWQ2MWxrOWRoOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13GIgrGdslD9oQ/giphy.gif)
 
 ### © 2025 Amirkabir University of Technology  
 **Department of Physics – Quantum Machine Learning Course**
