@@ -40,13 +40,9 @@ Recommended background reading:
 |---|-------|-------|-----------|----|
 | 1 | Preprocessing & Data Preparation, Regression (Linear Models) | Lesson & Coding | 90 min | Nima |
 | 2 | Decision Tree, Random Forests (Tree-based Models) | Lesson & Coding | 90 min | Alireza |
-| 3 | Multilayer Perceptron, RNN (Artificial NN) | Lesson & Coding | 90 min | Nima |
+| 3 | Multilayer Perceptron (Artificial NN) | Lesson & Coding | 90 min | Nima |
 | 4 | Convolutional Neural Network (Artificial NN) | Lesson & Coding | 90 min | Alireza |
 | 5 | Recurrent Neural Network, LSTM (Artificial NN) | Lesson & Coding | 90 min | Nima |
-| 6 | Support Vector Machine (Kernel Method) | Lesson & Coding | 90 min | Nima |
-| 7 | K-Nearest Neighbour (Kernel Method) | Lesson & Coding | 90 min | Alireza |
-| 8 | Boltzmann Machine & RBM (Artificial NN) | Lesson & Coding | 90 min | Nima |
-| 9 | Hopfield Model, Bayesian Network (Graphical Model) | Lesson & Coding | 90 min | Alireza |
 
 ---
 
