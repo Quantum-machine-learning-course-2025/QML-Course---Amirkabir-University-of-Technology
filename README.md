@@ -1,4 +1,8 @@
-# Quantum Machine Learning – Fall 2025  
+# Quantum Machine Learning Course – Fall 2025  
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
+![Topics](https://img.shields.io/badge/Topics-Machine%20Learning%20%7C%20Quantum%20Computing-green)
 
 ![Michael Scott](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hvNzk5OW1peGo4ZG1jZHN2MmFjOTg4MmQwMzE2d21lMGY0cjdnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ssYTQOB9SkwvgsLhEk/giphy.gif)
 
@@ -56,9 +60,11 @@ Find all your resources here:
 - **YouTube Playlist:** [Quantum Machine Learning Lectures](https://youtube.com/playlist?list=PL529eKJTemlBZqi900uIeohSd7qqUEG9U&si=Xq-taFyx1A-p0yDL)
 
 ---
-## Contact  
+## 📟  Contact  
 For any questions or support, please visit:  
-🔗 [https://qucal.aut.ac.ir/](https://qucal.aut.ac.ir/)
+[![LinkedIn](https://img.shields.io/badge/-Nima%20Yadollahi-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nima-yadollahi-669893279/)
+[![GitHub](https://img.shields.io/badge/-@nimayadollahi-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/nimayadollahi)
+---
 ---
 
 
