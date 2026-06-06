@@ -1,10 +1,11 @@
 # Quantum Machine Learning Course – Fall 2025  
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
+![Libraries](https://img.shields.io/badge/Libraries-PyTorch%20%7C%20scikit--learn-red)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
 ![Topics](https://img.shields.io/badge/Topics-Machine%20Learning%20%7C%20Quantum%20Computing-green)
 
-![Michael Scott](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hvNzk5OW1peGo4ZG1jZHN2MmFjOTg4MmQwMzE2d21lMGY0cjdnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ssYTQOB9SkwvgsLhEk/giphy.gif)
+![Neo Dodge](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
 ---
 
@@ -16,7 +17,7 @@ Throughout the semester, we’ll explore how quantum systems can redefine how ma
 
 - **Instructor:** Dr. Negar Ashari Astani  
 - **Teaching Assistants:** Nima Yadollahi & Alireza Khalaji  
-- **Contact:** [qml.ta2025@gmail.com](mailto:qml.ta2025@gmail.com)  
+- **Contact:** [Nima Yadollahi](mailto:yadollahinima83@gmail.com)  
 - **Level:** Graduate  
 - **Session Duration:** 90 minutes  
 - **Main References:**    
@@ -37,6 +38,10 @@ Recommended background reading:
 - [Quantum Computation and Quantum Information – Nielsen & Chuang (PDF)](https://profmcruz.wordpress.com/wp-content/uploads/2017/08/quantum-computation-and-quantum-information-nielsen-chuang.pdf)
 
 ---
+Course books:
+- [Machine Learning with Quantum Computers by Maria Schuld and Francesco Petruccione](https://link.springer.com/book/10.1007/978-3-030-83098-4)
+- [Hands-On Machine Learning by Aurelien Geron
+](http://14.139.161.31/OddSem-0822-1122/Hands-On_Machine_Learning_with_Scikit-Learn-Keras-and-TensorFlow-2nd-Edition-Aurelien-Geron.pdf)
 
 ## TA Classes Schedule  
 
@@ -49,8 +54,6 @@ Recommended background reading:
 | 5 | Recurrent Neural Network, LSTM (Artificial NN) | Lesson & Coding | 90 min | Nima |
 
 ---
-
-![Neo Dodge](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
 ## Related Links  
 Find all your resources here:  
